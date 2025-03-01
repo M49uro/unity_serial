@@ -1,0 +1,34 @@
+{
+    "name": "ConTest",
+    "maps": [
+        {
+            "name": "Button",
+            "id": "72b14850-20f0-41db-9670-bcd1e00931c5",
+            "actions": [
+                {
+                    "name": "Circle",
+                    "type": "Button",
+                    "id": "a45dc56b-3e51-4b24-b207-66ad68121af0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e07ced1a-6aaf-4390-9cd3-0b6185aa213d",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Circle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
